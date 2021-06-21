@@ -2,7 +2,7 @@
 #### Setup Project
 ```bash
 # clone the repo
-git clone https://github.com/devzakir/laravel-complete-blog-development.git laravel-blog
+git clone https://github.com/phuchealer91/motost.git 
 
 # install composer dependency
 composer install
